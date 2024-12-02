@@ -40,7 +40,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/veryfastsloth/veryfastsloth/output/snake.svg" alt="Snake animation" />
+![](https://raw.githubusercontent.com/veryfastsloth/veryfastsloth/output/github-contribution-grid-snake.svg)
 
 ###
 
