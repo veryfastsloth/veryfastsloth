@@ -40,10 +40,6 @@
 
 ###
 
-![](https://raw.githubusercontent.com/veryfastsloth/veryfastsloth/output/github-contribution-grid-snake.svg)
-
-###
-
 <h2 align="left">Connect with me</h2>
 
 ###
@@ -55,7 +51,7 @@
   <a href="https://www.instagram.com/gianluca.rege/?next=%2F" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
   </a>
-  <a href="gianlurege@gmail.com" target="_blank">
+  <a href="mailto:gianlurege@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
   </a>
 </div>
