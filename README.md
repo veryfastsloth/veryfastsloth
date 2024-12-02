@@ -64,4 +64,4 @@
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=gianlucarege&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=gianlucarege&count={3})
