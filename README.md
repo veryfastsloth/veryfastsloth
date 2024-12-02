@@ -57,3 +57,5 @@
 </div>
 
 ###
+
+![snake gif](https://github.com/veryfastsloth/veryfastsloth/blob/output/github-snake-dark.svg)
