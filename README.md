@@ -65,6 +65,3 @@
   
   <br/><br/><br/>
 </div>
-
-<!--START_SECTION:spotify-->
-<!--END_SECTION:spotify-->
