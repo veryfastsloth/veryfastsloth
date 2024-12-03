@@ -66,4 +66,4 @@
   <br/><br/><br/>
 </div>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=gianlucarege)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=gianlucarege&unique={true|1|on|yes})
