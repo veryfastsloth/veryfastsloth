@@ -65,3 +65,5 @@
   
   <br/><br/><br/>
 </div>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=gianlucarege)
