@@ -66,4 +66,12 @@
   <br/><br/><br/>
 </div>
 
+###
+
+<h2 align="left">What’s playing while I code</h2>
+
+###
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=gianlucarege&unique={true|1|on|yes})
+
+###
